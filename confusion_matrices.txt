@@ -1,0 +1,30 @@
+
+Decision Tree
+Final Confusion Matrix:
+[[159  28]
+ [ 19  18]]
+
+Random Forest
+Final Confusion Matrix:
+[[178   9]
+ [ 22  15]]
+
+Gradient Boosting
+final Confusion Matrix:
+[[173  14]
+ [ 22  15]]
+
+Support Vector Machine
+Final Confusion Matrix:
+[[187   0]
+ [ 37   0]]
+
+Logistic Regression
+Final Confusion Matrix:
+[[184   3]
+ [ 33   4]]
+
+k-Nearest Neighbors
+Final Confusion Matrix:
+[[173  14]
+ [ 33   4]]
