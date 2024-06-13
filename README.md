@@ -50,7 +50,7 @@
     ├── run.py
     ├── confusion_matrices.txt
     ├── model_results.csv
-    ├── /models
+    ├── models/
     │   ├── decisiontree.py
     │   ├── gradientboosting.py
     │   ├── k-nearest.py
