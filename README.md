@@ -46,17 +46,18 @@
 └── fosspred/
     ├── README.md
     ├── __init__.py
+    ├── the_data.csv
+    ├── run.py
     ├── confusion_matrices.txt
     ├── model_results.csv
-    ├── models
+    ├── /models
     │   ├── decisiontree.py
     │   ├── gradientboosting.py
     │   ├── k-nearest.py
     │   ├── logreg.py
     │   ├── randomforest.py
     │   └── supportvector.py
-    ├── run.py
-    └── the_data.csv
+    └──
 ```
 
 ---
