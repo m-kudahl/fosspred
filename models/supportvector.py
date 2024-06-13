@@ -16,7 +16,7 @@ all_columns = ['COM-1', 'COM-2', 'POP-1', 'STA-1', 'STA-2', 'STA-3', 'STA-4', 'S
 X_features = data[all_columns]
 y_target = data['status']
 
-# Initialize the Support Vector Machine model  and StratifiedKFold cross-validation
+# Initialize the Support Vector Machine model and StratifiedKFold cross-validation
 model = SVC(probability=True)
 kf = StratifiedKFold(n_splits=10)
 
