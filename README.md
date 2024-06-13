@@ -26,7 +26,7 @@
 > - [🧩 Modules](#-modules)
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
->   - [🤖 Running fosspred](#-running-fosspred)
+>   - [▶️ Running FOSSPred](#-running-fosspred)
 
 
 ---
@@ -118,7 +118,7 @@ pip install scikit-learn
 pip install numpy
 ```
 
-### 🤖 Running fosspred
+### ▶️ Running FOSSPred
 
 Use the following command to run FOSSPred:
 
